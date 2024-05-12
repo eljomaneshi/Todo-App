@@ -6,6 +6,9 @@ You can register/login into your account and your tasks can be saved and accesse
 The backend is made using Java language, and frontend with React.js (HTML, CSS, JS).
 Also Docker is used for establishing the connection and saving users data.
 
+[todo-application.pdf](https://github.com/eljomaneshi/Todo-App/files/15286813/todo-application.pdf)
+
+
 <img width="683" alt="1" src="https://github.com/eljomaneshi/Todo-App/assets/111017780/8ec87ac0-c7da-405f-8a81-106586fb1369">
 
 <img width="709" alt="2" src="https://github.com/eljomaneshi/Todo-App/assets/111017780/ca2df6c5-d7d6-4e43-86b5-bfba9554e0a4">
