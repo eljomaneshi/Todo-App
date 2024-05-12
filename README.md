@@ -3,8 +3,11 @@
 This is a TODO CRUD Application (both frontend and back-end). I have developed some features like:
 
 • User Authentication: It allows users to register/login and manage their accounts data and credentials.
+
 • Create and Update tasks: Users can add or modify existing tasks, such as updating the title/description, notes, target date.
+
 • Delete tasks: Allow users to remove tasks from their to-do list.
+
 • Mark tasks as complete.
 
 The back-end is made using Java language, and front-end with React.js (HTML, CSS, JS). 
