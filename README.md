@@ -1,10 +1,14 @@
 # Todo-App
 
-This is an Todo Application where you can create, update, delete your own notes/tasks. 
-You can register/login into your account and your tasks can be saved and accessed later, also you can change your password.
+This is a TODO CRUD Application (both frontend and back-end). I have developed some features like:
 
-The backend is made using Java language, and frontend with React.js (HTML, CSS, JS).
-Also Docker is used for establishing the connection and saving users data.
+• User Authentication: It allows users to register/login and manage their accounts data and credentials.
+• Create and Update tasks: Users can add or modify existing tasks, such as updating the title/description, notes, target date.
+• Delete tasks: Allow users to remove tasks from their to-do list.
+• Mark tasks as complete.
+
+The back-end is made using Java language, and front-end with React.js (HTML, CSS, JS). 
+MYSQL is used as a database. Docker is used to spin off MYSQL database images.
 
 ![1](https://github.com/eljomaneshi/Todo-App/assets/111017780/e0612964-921b-4326-b07e-0333453e34a7)
 
